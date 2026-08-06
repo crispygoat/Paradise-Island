@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FAE6B49B-473D-7B83-71AF-7CAC81B38D61}",
+	"Category": "Game",
+	"Description": "Paradise Island - a cozy AFK island ecosystem game. Your name and birth year seed a unique undiscovered Pacific island; grow it from bare rock to a thriving paradise.",
+	"Plugins": [
+		{
+			"Name": "ModelContextProtocol",
+			"Enabled": true
+		},
+		{
+			"Name": "AllToolsets",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		}
+	]
+}

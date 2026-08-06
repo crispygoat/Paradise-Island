@@ -1,0 +1,28 @@
+# Unreal Engine generated / cache directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Plugin generated dirs
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local Claude settings
+.claude/settings.local.json
